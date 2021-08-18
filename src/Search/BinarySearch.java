@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //注意： 使用二分查找的前提是该数组是有序的
+//update test
 public class BinarySearch {
   public static void main(String[] args) {
     int arr[] = {1, 8, 10, 89, 1000, 1000, 1000, 1234};
