@@ -1,0 +1,40 @@
+
+[	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(³®Ê
+`	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(‡äÃÓøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş§÷«ıÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "key".(ÿÃı
+J
+java:S6212
+"/Declare this local variable with "var" instead.(š¦Šôÿÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ÿÃı
+J
+java:S6212"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ËùŞ—ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×óĞÅıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿€›Ö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïú·şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º¼¿ğıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÉŠ·
+>	java:S131""Add a default case to this switch.(°Ó÷8®Á½ò§/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÓàŸ
+J
+java:S6212"/Declare this local variable with "var" instead.(Ëéæƒşÿÿÿÿ
+f
+java:S3457#"Q%n should be used in place of \n to produce the platform-specific line separator.(÷¤‰i
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(÷¤‰i
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+l
+java:S3457+"Q%n should be used in place of \n to produce the platform-specific line separator.(ªšÓ‡ıÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ªšÓ‡ıÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ÛæÏƒ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(ş…ËÎ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(»ıéŠùÿÿÿÿ
+E
+java:S6212u"/Declare this local variable with "var" instead.(ŸğÑµ
+g
+java:S3457v"Q%n should be used in place of \n to produce the platform-specific line separator.(ê ‹ú
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(ê ‹ú

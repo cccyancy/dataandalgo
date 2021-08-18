@@ -1,0 +1,56 @@
+
+a	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(Ğ¥Ü„ùÿÿÿÿ
+2
+java:S1643t"Use a StringBuilder instead.(®º¹
+T
+java:S1155O">Use isEmpty() to check whether the collection is empty or not.(—öûÔ
+T
+java:S1155W">Use isEmpty() to check whether the collection is empty or not.(§Ñğ§
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áûK
+f
+java:S11499"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Îğø
+l
+java:S1149•"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(·ìÅéøÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(·ıÒÂ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æéãşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŸˆËƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»öçİ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ï€‹À
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ş‹îøÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(«ß®ÿ
+o
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îğø
+t
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(âî¹Öùÿÿÿÿ
+K
+java:S1854s"5Remove this useless assignment to local variable "c".(ÌàäÍ
+n
+java:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ı«@
+J
+java:S6212h"/Declare this local variable with "var" instead.(‚»–øÿÿÿÿ
+u
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+u
+java:S3012…"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(÷øÜıùÿÿÿÿ
+u
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ìÅéøÿÿÿÿ
+F
+java:S6212"/Declare this local variable with "var" instead.(ÎÃ—Ğ
+E
+java:S6212Ÿ"/Declare this local variable with "var" instead.(ùÖ‚[
+F
+java:S6212 "/Declare this local variable with "var" instead.(ıœºë
+e
+java:S3008¸"NRename this field "ADD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûàª
+j
+java:S3008¹"NRename this field "SUB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìñ¼¥øÿÿÿÿ
+j
+java:S3008º"NRename this field "MUL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ƒ“ ûÿÿÿÿ
+e
+java:S3008»"NRename this field "DIV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¿Ûí
+Q
+java:S1118·":Add a private constructor to hide the implicit public one.(¿²şÔ
+K
+java:S6212¿"/Declare this local variable with "var" instead.(Ó°¬Ñøÿÿÿÿ
+N	java:S106Î"9Replace this use of System.out or System.err by a logger.(øïØ8

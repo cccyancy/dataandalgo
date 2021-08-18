@@ -1,0 +1,25 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş±ş¤
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+E
+java:S6212"/Declare this local variable with "var" instead.(€å‡ö
+E
+java:S6212"/Declare this local variable with "var" instead.(ŸÏÿÊ
+E
+java:S6212"/Declare this local variable with "var" instead.(ÀŞù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹òâòûÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ÀŞù
+J
+java:S6212"/Declare this local variable with "var" instead.(âÏôÍÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ØíÏÈ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(ÿÍìÔıÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(å…¯
+E
+java:S62125"/Declare this local variable with "var" instead.(ÀŞù
+J
+java:S62126"/Declare this local variable with "var" instead.(âÏôÍÿÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ØíÏÈ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
