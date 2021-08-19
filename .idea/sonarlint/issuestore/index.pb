@@ -9,10 +9,6 @@ S
 #src/Queue/CircleArrayQueueDemo.java,4\9\493f5db8eb0976d16b99658a9598ee46738eb575
 B
 DataStructures.iml,3\2\328e067dd959d6c4a6429c0ea9dbcb8a7764d38f
-T
-$src/LinkedList/DoubleLinkedList.java,1\9\19b602e17767a8a92ac74cdbe6411852995e4320
-X
-(src/LinkedList/DoubleLinkedListDemo.java,d\8\d87dfb6b37c2a5d94decdcec59799663a69220d1
 J
 src/LinkedList/Joseph.java,4\b\4b1fefb9b4d84b809ad85b8108d749262f1502be
 R
