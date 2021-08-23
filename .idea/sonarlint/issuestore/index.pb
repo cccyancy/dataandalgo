@@ -27,3 +27,19 @@ P
  src/Sparsearray/SparseArray.java,e\2\e21e625f7693a2171b3896c6679b210918422a5c
 M
 src/LinkedList/TestStack.java,8\d\8dee43d884ed10e6667bbca7b752debe92bf1ab0
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+T
+$src/LinkedList/DoubleLinkedList.java,1/9/19b602e17767a8a92ac74cdbe6411852995e4320
+X
+(src/LinkedList/DoubleLinkedListDemo.java,d/8/d87dfb6b37c2a5d94decdcec59799663a69220d1
+N
+src/Search/SequenceSearch.java,d/7/d7c899d23d3192df8eeacc9f2963cb7453f04a63
+L
+src/Search/BinarySearch.java,d/8/d87b4f00a017db10a1e1466c6863b51b428ad4a3
+Q
+!src/Search/InsertValueSearch.java,7/2/7295a8689fca234ea61e70567955d4e7a168e2f5
+O
+src/Search/FibonacciSearch.java,2/4/24ecc9d80b7455151deac29bf7e144a538208881
+N
+src/HashTab/HashTableDemo.java,3/0/3002b822a446f6ad7741cc735a80e39867aae5ee
