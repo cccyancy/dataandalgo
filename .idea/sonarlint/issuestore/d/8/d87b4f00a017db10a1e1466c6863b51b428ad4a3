@@ -1,0 +1,16 @@
+
+S
+java:S1197"8Move the array designator from the variable to the type.(®Šîïşÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(×ŠÂŠ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õï„Íúÿÿÿÿ
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(áÏÆŞûÿÿÿÿ
+n
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûùíJ
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(çŸ‰•üÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+‹
+java:S1319;"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(áÏÆŞûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„„ÿÊ
