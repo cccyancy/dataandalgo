@@ -5,34 +5,41 @@ public class BinaryTreeDemp {
         //先需要创建一颗二叉树
         BinaryTree binaryTree = new BinaryTree();
         //创建需要的节点
-        HeroNode root = new HeroNode(1, "Song");
-        HeroNode node2 = new HeroNode(2, "wu");
-        HeroNode node3 = new HeroNode(3, "lu");
-        HeroNode node4 = new HeroNode(4, "lin");
-        HeroNode node5 = new HeroNode(5, "Guan");
 
-        //手动创建，后面可以递归创建二叉树
+
+        //测试一把中序线索二叉树的功能
+        HeroNode root = new  HeroNode(1, "tom");
+        HeroNode node2 = new  HeroNode(3, "j");
+        HeroNode node3 = new  HeroNode(6, "s");
+        HeroNode node4 = new  HeroNode(8, "m");
+        HeroNode node5 = new  HeroNode(10, "k");
+        HeroNode node6 = new  HeroNode(14, "d");
+
+        //二叉树创建，先不用递归
 
         root.setLeft(node2);
         root.setRight(node3);
-        node3.setRight(node4);
-        //node3.setLeft(node5);
+        node2.setRight(node5);
+        node2.setLeft(node4);
+        node3.setLeft(node6);
+
+
         binaryTree.setRoot(root);
 
 //        //测试前序
-//        System.out.println("前序遍历");
-//        binaryTree.setRoot(root);
-//        binaryTree.preOrder();
+        System.out.println("前序遍历");
+        binaryTree.setRoot(root);
+        binaryTree.preOrder();
 //
 //        //测试中序
-//        System.out.println("前序遍历");
-//        binaryTree.setRoot(root);
-//        binaryTree.infixOrder();
+        System.out.println("中序遍历");
+        binaryTree.setRoot(root);
+        binaryTree.infixOrder();
 //
 //        //测试后序
-//        System.out.println("前序遍历");
-//        binaryTree.setRoot(root);
-//        binaryTree.postOrder();
+        System.out.println("后序遍历");
+        binaryTree.setRoot(root);
+        binaryTree.postOrder();
 
         //前序遍历方式
 //        System.out.println("前序遍历查找");
@@ -62,11 +69,11 @@ public class BinaryTreeDemp {
 //        }
 
         //测试删除节点
-        System.out.println("删除前，前序遍历");
-        binaryTree.preOrder();
-        binaryTree.planDelNode(3);
-        System.out.println("删除后，前序遍历");
-        binaryTree.preOrder();
+//        System.out.println("删除前，前序遍历");
+//        binaryTree.preOrder();
+//        binaryTree.planDelNode(3);
+//        System.out.println("删除后，前序遍历");
+//        binaryTree.preOrder();
 
     }
 }
